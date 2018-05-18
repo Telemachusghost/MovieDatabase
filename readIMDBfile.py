@@ -5,7 +5,6 @@ Derick Falk
 """
 
 import pandas as pd
-import json, requests
 from MySQLdb import *
 
 movies = {}
